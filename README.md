@@ -1,105 +1,76 @@
 # Hi, I'm Guglielmo Donato 👋
 
-**Frontend-focused Product Engineer** with 3+ years of production experience building user-facing applications with **Angular and TypeScript**.
+**Frontend-focused Software Engineer** with 3+ years of production experience building user-facing applications with **Angular and TypeScript**.
 
-Currently expanding into **React / Next.js** and strengthening my **full-stack TypeScript** skills through personal projects. I'm interested in product-driven engineering teams in **Berlin and across Europe**.
+Currently expanding into **React / Next.js and full-stack TypeScript**, with the goal of joining a **product-driven engineering team in Berlin or Europe**.
 
-## About me
+## 👨‍💻 About me
 
-I build frontend features from requirements to production, with a strong focus on **clear user flows, API integration, testing and maintainable code**.
+I work mainly on **frontend architecture, user-facing features, API integration and testing**.
 
-My production experience is mainly frontend-focused and includes Angular applications, **Signals / Signal Store, RxJS, GraphQL, REST APIs and WebSocket-based updates**, working closely with backend developers and product stakeholders.
+In production I've worked with Angular, Signals / Signal Store, RxJS, GraphQL, REST APIs and real-time WebSocket flows, collaborating closely with backend developers and product stakeholders.
 
-Outside production work, I build personal projects with **React, Next.js and TypeScript backends**, using them to improve how I think about product flows, data modelling and end-to-end application architecture.
-
-I'm looking for **Frontend Engineer** or **frontend-focused Full-stack Engineer** roles in product-driven teams, ideally in **Berlin or remote-friendly European companies**.
+Outside work, I'm building full-stack projects with **React, Next.js, Node.js and PostgreSQL** to strengthen my end-to-end product engineering skills.
 
 ## 🛠 Tech stack
 
-### Frontend — Production
+### ⚡ Frontend — Production
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,graphql,docker,githubactions" alt="Production frontend stack" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,graphql" alt="Frontend stack" />
 </p>
 
-**Angular · TypeScript · Signals · Signal Store · RxJS**
+**Angular · TypeScript · RxJS · Signals / Signal Store**
 **GraphQL / Apollo · REST APIs · WebSocket**
-**Playwright · Vitest · Testing Library · Docker · GitHub Actions**
+**Playwright · Vitest · Testing Library**
 
-### Backend & Data — Projects & Experiments
+### 🗄️ Backend & Data — Personal projects
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,prisma" alt="Backend and data stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,prisma" alt="Backend stack" />
 </p>
 
 **Node.js · Express · Fastify · Nest.js**
 **Prisma · Drizzle ORM · PostgreSQL**
 
-This is **project-based and self-directed experience**, not commercial backend experience.
-
-I use these tools to build complete TypeScript applications, understand frontend/backend boundaries and practise API design, persistence, validation and data modelling.
-
-### Currently building with
+### 🌱 Currently expanding into
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React and Next.js stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React and Next.js" />
 </p>
 
 **React · Next.js App Router · TanStack Query · Zustand · Zod**
 
 ## 🚀 What I'm building
 
-I'm progressively revisiting older GitHub projects and turning them into **small products with a clear identity**, rather than keeping them as disconnected technical experiments.
+### AfterBuy `WIP`
 
-The goal is to focus on a small number of projects with:
-
-* a clear problem and user flow;
-* deliberate technical decisions;
-* clean frontend/backend boundaries;
-* testing and maintainability;
-* documentation that explains the reasoning behind the implementation.
-
-My current direction is to build **1–2 focused full-stack products** using:
-
-**Next.js / React → Fastify or Nest.js → Drizzle or Prisma → PostgreSQL**
-
-The objective is not to collect more technologies, but to demonstrate that I can apply my frontend experience across the full product flow while progressively consolidating my backend skills.
-
-## 📦 Current project
-
-### AfterBuy — `Work in progress`
-
-A product for managing the tasks, deadlines and actions that happen after a purchase.
+A full-stack product for managing the tasks, deadlines and actions that happen after a purchase.
 
 [View repository →](https://github.com/guglielmo171/afterbuy)
 
-Current focus:
+Currently working on:
 
-* building the main product flows with **React / Next.js**;
-* defining clear data and state ownership;
-* using **Zod, TanStack Query and Zustand** where they fit the problem;
-* evolving the project toward a more complete full-stack architecture;
-* adding **Vitest, Testing Library and Playwright** as the product matures.
+* product flows and UX with **React / Next.js**
+* clear client/server and state boundaries
+* validation and data modelling
+* automated testing with **Vitest, Testing Library and Playwright**
 
-> AfterBuy is actively evolving. The repository reflects the current implementation rather than a finished production system.
+I'm also progressively turning older experiments into a **small number of focused products**, using stacks such as:
 
-## How I work
+**Next.js → Fastify / Nest.js → Drizzle / Prisma → PostgreSQL**
 
-* 🧪 **Test critical behaviour** — Playwright for important E2E journeys and Vitest / Testing Library for faster feedback closer to the code.
-* 🔌 **Work across frontend/backend boundaries** — API contracts, validation, edge cases and data flows are part of frontend ownership.
-* 🧩 **Prefer simple, maintainable architecture** — clear responsibilities and understandable abstractions over unnecessary complexity.
-* 🤖 **Use AI-assisted engineering deliberately** — for exploration, implementation support and reviews, while keeping architecture and final validation under engineering control.
+## 🧭 How I work
 
-## What I'm looking for
+* 🧪 **Testing matters** — critical journeys with Playwright, faster feedback with Vitest and Testing Library.
+* 🔌 **Frontend doesn't stop at the UI** — I work with API contracts, validation, edge cases and debugging across services.
+* 🧩 **Prefer maintainable solutions** — clear boundaries and simple abstractions over unnecessary complexity.
+* 🤖 **AI-assisted engineering** — I use coding agents for exploration, implementation and review, while keeping technical decisions and validation under engineering control.
 
-I'm interested in:
+## 📬 Let's connect
 
-* **Frontend Engineer**
-* **Frontend-focused Full-stack Engineer**
-* Product teams where engineers own user-facing features end-to-end
-* **Berlin-based roles**
-* Remote or hybrid opportunities across Europe
+I'm interested in **Frontend Engineer** and **frontend-focused Full-stack Engineer** roles within product teams.
 
-📍 **Italy → Open to Berlin / Europe**
+📍 Italy → **Open to Berlin / Europe**
 
-[GitHub](https://github.com/guglielmo171) · [LinkedIn](https://www.linkedin.com/in/guglielmo-donato/) · [Email](mailto:guglielmo.donato04@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/guglielmo-donato/) · [GitHub](https://github.com/guglielmo171) · [Email](mailto:guglielmo.donato04@gmail.com)
