@@ -8,7 +8,7 @@ Currently expanding into **React / Next.js and full-stack TypeScript**, with the
 
 I work mainly on **frontend architecture, user-facing features, API integration and testing**.
 
-In production I've worked with Angular, Signals / Signal Store, RxJS, GraphQL, REST APIs and real-time WebSocket flows, collaborating closely with backend developers and product stakeholders.
+In production I've worked with Angular, Signals, RxJS, GraphQL, REST APIs and real-time WebSocket flows, collaborating closely with backend developers and product stakeholders.
 
 Outside work, I'm building full-stack projects with **React, Next.js, Node.js and PostgreSQL** to strengthen my end-to-end product engineering skills.
 
@@ -20,18 +20,16 @@ Outside work, I'm building full-stack projects with **React, Next.js, Node.js an
   <img src="https://skillicons.dev/icons?i=angular,ts,graphql" alt="Frontend stack" />
 </p>
 
-**Angular · TypeScript · RxJS · Signals / Signal Store**
-**GraphQL / Apollo · REST APIs · WebSocket**
-**Playwright · Vitest · Testing Library**
+**Angular · TypeScript · RxJS · Signals**  
+**GraphQL · REST APIs · WebSocket · Playwright**
 
 ### 🗄️ Backend & Data — Personal projects
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,prisma" alt="Backend stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma" alt="Backend stack" />
 </p>
 
-**Node.js · Express · Fastify · Nest.js**
-**Prisma · Drizzle ORM · PostgreSQL**
+**Node.js · Fastify / Nest.js · PostgreSQL · Prisma / Drizzle ORM**
 
 ### 🌱 Currently expanding into
 
@@ -39,33 +37,33 @@ Outside work, I'm building full-stack projects with **React, Next.js, Node.js an
   <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React and Next.js" />
 </p>
 
-**React · Next.js App Router · TanStack Query · Zustand · Zod**
+**React · Next.js**
 
 ## 🚀 What I'm building
 
 ### AfterBuy `WIP`
 
-A full-stack product for managing the tasks, deadlines and actions that happen after a purchase.
+A product for managing the tasks, deadlines and actions that happen after a purchase.
 
-[View repository →](https://github.com/guglielmo171/afterbuy)
+Current focus:
 
-Currently working on:
+- building clear product flows with **React / Next.js**
+- defining clean client/server and state boundaries
+- validating and modelling data deliberately
+- adding automated testing as the product evolves
 
-* product flows and UX with **React / Next.js**
-* clear client/server and state boundaries
-* validation and data modelling
-* automated testing with **Vitest, Testing Library and Playwright**
+I'm also progressively turning older experiments into a **small number of focused full-stack products**, rather than maintaining many disconnected POCs.
 
-I'm also progressively turning older experiments into a **small number of focused products**, using stacks such as:
+Typical stack:
 
 **Next.js → Fastify / Nest.js → Drizzle / Prisma → PostgreSQL**
 
 ## 🧭 How I work
 
-* 🧪 **Testing matters** — critical journeys with Playwright, faster feedback with Vitest and Testing Library.
-* 🔌 **Frontend doesn't stop at the UI** — I work with API contracts, validation, edge cases and debugging across services.
-* 🧩 **Prefer maintainable solutions** — clear boundaries and simple abstractions over unnecessary complexity.
-* 🤖 **AI-assisted engineering** — I use coding agents for exploration, implementation and review, while keeping technical decisions and validation under engineering control.
+- 🧪 **Testing matters** — critical journeys with Playwright and automated tests closer to the code where they provide useful feedback.
+- 🔌 **Frontend doesn't stop at the UI** — I work with API contracts, validation, edge cases and debugging across services.
+- 🧩 **Prefer maintainable solutions** — clear boundaries and simple abstractions over unnecessary complexity.
+- 🤖 **AI-assisted engineering** — I use coding agents for exploration, implementation and review, while keeping technical decisions and validation under engineering control.
 
 ## 📬 Let's connect
 
