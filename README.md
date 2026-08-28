@@ -2,73 +2,117 @@
 
 **Frontend-focused Software Engineer** with 3+ years of production experience building user-facing applications with **Angular and TypeScript**.
 
-Currently expanding into **React / Next.js and full-stack TypeScript**, with the goal of joining a **product-driven engineering team in Berlin or Europe**.
+I work mainly on frontend architecture, product features, API integrations and testing, and I'm currently building **React / Next.js products** to expand further into frontend-leaning full-stack engineering.
+
+📍 Italy · Open to **Berlin / Europe**
+
+---
 
 ## 👨‍💻 About me
 
-I work mainly on **frontend architecture, user-facing features, API integration and testing**.
+In production I've worked with:
 
-In production I've worked with Angular, Signals, RxJS, GraphQL, REST APIs and real-time WebSocket flows, collaborating closely with backend developers and product stakeholders.
+- Angular, TypeScript, RxJS and Signals
+- REST APIs, GraphQL and WebSocket flows
+- frontend/backend integration and debugging
+- Playwright and automated testing
+- user-facing features from implementation through production fixes
 
-Outside work, I'm building full-stack projects with **React, Next.js, Node.js and PostgreSQL** to strengthen my end-to-end product engineering skills.
+I'm particularly interested in engineering teams where frontend developers own features end-to-end and work closely with product and design.
 
-## 🛠 Tech stack
+Outside work, I build small product-focused projects with **React, Next.js and TypeScript**, using them to explore product architecture, server/client boundaries, external APIs and testing.
 
-### ⚡ Frontend — Production
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,graphql" alt="Frontend stack" />
-</p>
+## 🚀 Featured projects
 
-**Angular · TypeScript · RxJS · Signals**  
-**GraphQL · REST APIs · WebSocket · Playwright**
+### Relay
 
-### 🗄️ Backend & Data — Personal projects
+**Catch up before you code.**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma" alt="Backend stack" />
-</p>
+A voice-first context-recovery tool for software engineers.
 
-**Node.js · Fastify / Nest.js · PostgreSQL · Prisma / Drizzle ORM**
+Relay turns a structured technical handoff — what changed, what's blocked, what's waiting on you and what's next — into a short spoken briefing powered by **ElevenLabs**.
 
-### 🌱 Currently expanding into
+**Engineering highlights**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React and Next.js" />
-</p>
+- Next.js App Router + React + TypeScript
+- ElevenLabs Text-to-Speech integration
+- server-side API boundary and secure credential handling
+- deterministic TypeScript briefing compiler
+- audio playback lifecycle, cancellation and failure states
+- local persistence and session caching
+- Vitest coverage for domain logic and API boundaries
+- shadcn/ui interface
 
-**React · Next.js**
+`Next.js · React · TypeScript · ElevenLabs · shadcn/ui · Vitest`
 
-## 🚀 What I'm building
+<!-- Add when deployed:
+[Live Demo](...) · [Repository](...)
+-->
+
+---
 
 ### AfterBuy `WIP`
 
-A product for managing the tasks, deadlines and actions that happen after a purchase.
+A product for managing the tasks, deadlines and actions that happen after a purchase — including returns, refunds and warranties.
 
-Current focus:
+Current engineering focus:
 
-- building clear product flows with **React / Next.js**
-- defining clean client/server and state boundaries
-- validating and modelling data deliberately
-- adding automated testing as the product evolves
+- modelling post-purchase workflows explicitly
+- building product flows with React / Next.js
+- defining clear client/server and state boundaries
+- validating domain data deliberately
+- introducing automated testing around critical behaviour
 
-I'm also progressively turning older experiments into a **small number of focused full-stack products**, rather than maintaining many disconnected POCs.
+`Next.js · React · TypeScript · Prisma · Zod · Playwright`
 
-Typical stack:
+---
 
-**Next.js → Fastify / Nest.js → Drizzle / Prisma → PostgreSQL**
+## 🛠 Tech
 
-## 🧭 How I work
+### Production
 
-- 🧪 **Testing matters** — critical journeys with Playwright and automated tests closer to the code where they provide useful feedback.
-- 🔌 **Frontend doesn't stop at the UI** — I work with API contracts, validation, edge cases and debugging across services.
-- 🧩 **Prefer maintainable solutions** — clear boundaries and simple abstractions over unnecessary complexity.
-- 🤖 **AI-assisted engineering** — I use coding agents for exploration, implementation and review, while keeping technical decisions and validation under engineering control.
+**Angular · TypeScript · JavaScript · RxJS · Signals**
 
-## 📬 Let's connect
+**REST APIs · GraphQL · WebSocket**
 
-I'm interested in **Frontend Engineer** and **frontend-focused Full-stack Engineer** roles within product teams.
+**Playwright · Git · Docker**
+
+### Product projects
+
+**React · Next.js · Node.js**
+
+**PostgreSQL · Prisma · Drizzle**
+
+**Vitest · Playwright · shadcn/ui**
+
+---
+
+## 🧭 How I approach engineering
+
+- **Product before technology** — start from the problem and choose the smallest architecture that solves it.
+- **Frontend doesn't stop at the UI** — API contracts, validation, failure states and debugging across boundaries are part of the job.
+- **Testing where it provides confidence** — especially domain logic and critical user journeys.
+- **Simple boundaries over premature abstraction** — introduce complexity only when the product requires it.
+- **AI-assisted engineering** — I use coding agents for exploration, planning, implementation and review while keeping architectural decisions and verification under engineering control.
+
+---
+
+## 🎯 What I'm looking for
+
+I'm interested in **Frontend Engineer** and **frontend-leaning Full-stack Engineer** roles within product companies and scale-ups.
+
+I'm especially interested in teams working with:
+
+**TypeScript · React / Next.js · modern frontend architecture · product engineering**
 
 📍 Italy → **Open to Berlin / Europe**
 
-[LinkedIn](https://www.linkedin.com/in/guglielmo-donato/) · [GitHub](https://github.com/guglielmo171) · [Email](mailto:guglielmo.donato04@gmail.com)
+---
+
+## 📬 Connect
+
+[LinkedIn](https://www.linkedin.com/in/guglielmo-donato/) ·
+[GitHub](https://github.com/guglielmo171) ·
+[Email](mailto:guglielmo.donato04@gmail.com)
