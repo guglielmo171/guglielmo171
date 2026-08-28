@@ -34,6 +34,10 @@ A voice-first context-recovery tool for software engineers.
 
 Relay turns a structured technical handoff — what changed, what's blocked, what's waiting on you and what's next — into a short spoken briefing powered by **ElevenLabs**.
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts" alt="Relay stack" />
+</p>
+
 **Engineering highlights**
 
 - Next.js App Router + React + TypeScript
@@ -48,7 +52,7 @@ Relay turns a structured technical handoff — what changed, what's blocked, wha
 `Next.js · React · TypeScript · ElevenLabs · shadcn/ui · Vitest`
 
 <!-- Add when deployed:
-[Live Demo](...) · [Repository](...)
+[Live Demo](https://your-relay-url.vercel.app) · [Repository](https://github.com/guglielmo171/relay)
 -->
 
 ---
@@ -56,6 +60,10 @@ Relay turns a structured technical handoff — what changed, what's blocked, wha
 ### AfterBuy `WIP`
 
 A product for managing the tasks, deadlines and actions that happen after a purchase — including returns, refunds and warranties.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,prisma" alt="AfterBuy stack" />
+</p>
 
 Current engineering focus:
 
@@ -71,21 +79,23 @@ Current engineering focus:
 
 ## 🛠 Tech
 
-### Production
+### ⚡ Production
 
-**Angular · TypeScript · JavaScript · RxJS · Signals**
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,graphql,docker,git" alt="Production stack" />
+</p>
 
-**REST APIs · GraphQL · WebSocket**
+**Angular · TypeScript · JavaScript · RxJS · Signals**  
+**REST APIs · GraphQL · WebSocket · Playwright**
 
-**Playwright · Git · Docker**
+### 🚀 Product projects
 
-### Product projects
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,prisma" alt="Product project stack" />
+</p>
 
-**React · Next.js · Node.js**
-
-**PostgreSQL · Prisma · Drizzle**
-
-**Vitest · Playwright · shadcn/ui**
+**React · Next.js · Node.js**  
+**PostgreSQL · Prisma · Drizzle · Vitest · Playwright · shadcn/ui**
 
 ---
 
