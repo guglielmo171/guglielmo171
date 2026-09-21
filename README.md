@@ -2,7 +2,7 @@
 
 **Frontend-focused Software Engineer** with 3+ years of production experience building user-facing applications with **Angular and TypeScript**.
 
-I work mainly on frontend architecture, product features, API integrations and testing, and I'm currently building **React / Next.js products** to expand further into frontend-leaning full-stack engineering.
+I work mainly on frontend architecture, product features, API integrations and testing, and I'm currently building **React / Next.js products** to deepen my product engineering skills and end-to-end ownership.
 
 📍 Italy · Open to **Berlin / Europe**
 
@@ -20,7 +20,7 @@ In production I've worked with:
 
 I'm particularly interested in engineering teams where frontend developers own features end-to-end and work closely with product and design.
 
-Outside work, I build small product-focused projects with **React, Next.js and TypeScript**, using them to explore product architecture, server/client boundaries, external APIs and testing.
+Outside work, I build product-focused projects with **React, Next.js and TypeScript**, using them to explore frontend architecture, server/client boundaries, external APIs, domain logic and testing.
 
 ---
 
@@ -34,50 +34,53 @@ A voice-first context-recovery tool for software engineers.
 
 Relay turns a structured technical handoff — what changed, what's blocked, what's waiting on you and what's next — into a short spoken briefing powered by **ElevenLabs**.
 
+[Live Demo](https://relay-swart-omega.vercel.app) · [Repository](https://github.com/guglielmo171/relay)
+
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts" alt="Relay stack" />
 </p>
 
 **Engineering highlights**
 
-- Next.js App Router + React + TypeScript
-- ElevenLabs Text-to-Speech integration
-- server-side API boundary and secure credential handling
-- deterministic TypeScript briefing compiler
-- audio playback lifecycle, cancellation and failure states
-- local persistence and session caching
-- Vitest coverage for domain logic and API boundaries
-- shadcn/ui interface
+- React / Next.js frontend with non-trivial audio and interaction lifecycle
+- request cancellation, stale-state handling and bounded session caching
+- server-side API boundary with secure credential handling and failure mapping
+- deterministic TypeScript briefing compiler instead of unnecessary LLM usage
+- local persistence and explicit client/server responsibilities
+- Vitest coverage for domain logic, validation and API boundaries
 
 `Next.js · React · TypeScript · ElevenLabs · shadcn/ui · Vitest`
-
-<!-- Add when deployed:
-[Live Demo](https://your-relay-url.vercel.app) · [Repository](https://github.com/guglielmo171/relay)
--->
 
 ---
 
 ### AfterBuy `WIP`
 
-A product for managing the tasks, deadlines and actions that happen after a purchase — including returns, refunds and warranties.
+**Active product build** for managing the tasks, deadlines and actions that happen after a purchase — including returns, refunds and warranties.
+
+[Repository](https://github.com/guglielmo171/afterbuy)
 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,prisma" alt="AfterBuy stack" />
 </p>
 
-Current engineering focus:
+**Current state**
 
-- modelling post-purchase workflows explicitly
-- building product flows with React / Next.js
-- defining clear client/server and state boundaries
-- validating domain data deliberately
-- introducing automated testing around critical behaviour
+- public product landing / preview
+- product, architecture and scope documentation
+- initial domain and data modelling with Prisma
 
-`Next.js · React · TypeScript · Prisma · Zod · Playwright`
+**Currently building**
+
+- first interactive purchase lifecycle
+- date and urgency rules as explicit domain logic
+- persistence-backed product flows
+- automated tests around critical behaviour
+
+`Next.js · React · TypeScript · Prisma · Zod · Vitest · Playwright`
 
 ---
 
-## 🛠 Tech
+## 🛠 Engineering evidence
 
 ### ⚡ Production
 
@@ -88,14 +91,14 @@ Current engineering focus:
 **Angular · TypeScript · JavaScript · RxJS · Signals**  
 **REST APIs · GraphQL · WebSocket · Playwright**
 
-### 🚀 Product projects
+### 🚀 Featured project stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,prisma" alt="Product project stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,prisma" alt="Featured project stack" />
 </p>
 
-**React · Next.js · Node.js**  
-**PostgreSQL · Prisma · Drizzle · Vitest · Playwright · shadcn/ui**
+**React · Next.js · TypeScript · Node.js**  
+**Prisma · Vitest · Playwright · shadcn/ui**
 
 ---
 
@@ -111,7 +114,7 @@ Current engineering focus:
 
 ## 🎯 What I'm looking for
 
-I'm interested in **Frontend Engineer** and **frontend-leaning Full-stack Engineer** roles within product companies and scale-ups.
+I'm interested in **Frontend Engineer** and **Frontend-focused Software Engineer** roles within product companies and scale-ups.
 
 I'm especially interested in teams working with:
 
